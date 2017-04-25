@@ -1,5 +1,7 @@
 # omega2
 
+See https://github.com/Marsonge/LEDE_Onion
+
 ## wiki.onion.io
 https://wiki.onion.io/Tutorials/Contents
 
